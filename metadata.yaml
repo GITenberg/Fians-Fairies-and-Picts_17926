@@ -1,0 +1,32 @@
+_repo: Fians-Fairies-and-Picts_17926
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: MacRitchie, David
+    birthdate: 1851
+    deathdate: 1925
+    gutenberg_agent_id: '7705'
+    url: http://www.gutenberg.org/2009/agents/7705
+    wikipedia: http://en.wikipedia.org/wiki/David_MacRitchie
+description: ''
+gutenberg_issued: '2006-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17926'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- Great Britain'
+- !lcsh 'Scotland -- Antiquities'
+- !lcc 'DA'
+- !lcsh 'Picts'
+- !lcsh 'Great Britain -- Antiquities'
+- !lcc 'GR'
+- !lcsh 'Fairies -- Great Britain'
+title: Fians, Fairies and Picts
+url: http://www.gutenberg.org/ebooks/17926
