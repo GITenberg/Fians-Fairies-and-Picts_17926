@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7705
     wikipedia: http://en.wikipedia.org/wiki/David_MacRitchie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17926#Fians-Fairies-and-Picts
 gutenberg_issued: '2006-03-05'
 gutenberg_type: Text
 identifiers:
